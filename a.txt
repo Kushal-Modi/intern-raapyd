@@ -1,0 +1,11 @@
+Repository Management:
+git init: Initializes a new Git repository in the current directory.
+git clone [url]: Creates a local copy of a remote repository.
+git config: Configures Git settings (e.g., user name, email).
+Staging and Committing:
+git add [file]: Adds a file or changes to the staging area.
+git add .: Adds all changes in the current directory to the staging area.
+git commit -m "[message]": Records staged changes with a descriptive message.
+git status: Shows the status of files in the working directory and staging area.
+git diff: Shows changes that are not yet staged.
+git diff --staged: Shows changes that are staged but not yet committed
