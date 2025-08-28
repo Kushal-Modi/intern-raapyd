@@ -31,4 +31,3 @@ git rm [file]: Removes a file from the working directory and staging area.
 git mv [old-name] [new-name]: Renames or moves a file.
 git clean: Removes untracked files from the working directory.
 git tag: Manages tags for specific commit points.
-git help [command]: Displays help information for a specific Git command.
